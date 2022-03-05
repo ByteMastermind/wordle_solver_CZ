@@ -4,4 +4,6 @@ project(wordle_solver)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(wordle_solver
-        src/main.cpp)
+        src/main.cpp
+        src/Dictionary.cpp
+        src/Interface.cpp)
