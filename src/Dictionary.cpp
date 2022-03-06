@@ -47,7 +47,7 @@ int Dictionary::charCount(const std::string word) {
 void Dictionary::find(const Searched searched) const {
     std::vector<std::string> possible;
     for (auto w : dictionary) {
-        wordCompare(0, 0, w, searched.word, possible);
+        wordCompare(0, 0, 0, w, searched.word, possible);
     }
 
     for (auto pos : possible) {
@@ -58,17 +58,22 @@ void Dictionary::find(const Searched searched) const {
 
 }
 
-bool Dictionary::wordCompare(int index, int indexDic, const std::string &w, const std::string word, std::vector<std::string> & possible) const {
-    if (w[indexDic] != word[index] && word[index] != '?') {
-        return false;
-    }
-    if (index == charCount(w)) {
+void Dictionary::wordCompare(int index, int indexDic, int c, const std::string &w, const std::string word, std::vector<std::string> & possible) const {
+    if (w[indexDic] != word[index] && word[index] != '?')
+        return;
+
+    if (c == charCount(w) - 1) {
         possible.push_back(w);
-        return true;
+        return;
     }
-    if (wordCompare(index + 1, indexDic + 1, w, word, possible))
-        return true;
-    if (word[index] == '?')
-        wordCompare(index + 1, indexDic + 2, w, word, possible);
-    return true;
+
+    if ((w[indexDic] & 0xc0) == 0xc0 && (word[index] & 0xc0) == 0xc0)
+        wordCompare(index + 2, indexDic + 2, c + 1, w, word, possible);
+
+    if ((w[indexDic] & 0xc0) == 0xc0 && (word[index] & 0x80) == 0)
+        wordCompare(index + 1, indexDic + 2, c + 1, w , word, possible);
+
+    if ((w[indexDic] & 0x80) == 0 && (word[index] & 0x80) == 0)
+        wordCompare(index + 1, indexDic + 1, c + 1,  w, word, possible);
+
 }

@@ -28,7 +28,7 @@ private:
     std::string filePath;
     std::vector<std::string> dictionary;
 
-    bool wordCompare(int index, int indexDic, const std::string & w, std::string word, std::vector<std::string> & possible) const;
+    void wordCompare(int index, int indexDic, int c, const std::string & w, std::string word, std::vector<std::string> & possible) const;
 };
 
 
