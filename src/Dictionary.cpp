@@ -108,7 +108,6 @@ void Dictionary::loadDictionary(const std::string filePath) {
         std::string word;
         std::istringstream w(line);
         w >> word;
-        w >> word;
 
         if (charCount(word) != 5)
             continue;

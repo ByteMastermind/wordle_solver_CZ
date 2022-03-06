@@ -5,7 +5,7 @@
 int main () {
     Dictionary dictionary;
     try {
-        dictionary.loadDictionary("../data/syn2015_word_abc_utf8.tsv");
+        dictionary.loadDictionary("../data/dictionary.txt");
     }
     catch (std::exception & e) {
         std::cout << e.what() << std::endl;
