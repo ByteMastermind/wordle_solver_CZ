@@ -45,7 +45,3 @@ Another example:
 ????? l a
 ```
 Will find all words containing letter l and a.
-
-## Dictionary
-
-Used a dictionary available at https://wiki.korpus.cz/doku.php/seznamy:abc_seznamy
