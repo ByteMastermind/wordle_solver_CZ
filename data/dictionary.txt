@@ -165,7 +165,6 @@ archa
 archu
 archy
 archů
-arciť
 arest
 areál
 argon
@@ -193,7 +192,6 @@ ascii
 ascií
 asiat
 aspik
-aspoň
 astat
 aster
 astma
@@ -239,7 +237,6 @@ autem
 autor
 autou
 autům
-auťák
 avala
 avalo
 avalu
@@ -379,17 +376,12 @@ bavíš
 bazar
 bazuk
 bazén
-baňce
-baňka
-baňku
-baňky
 baška
 bašta
 baštu
 bašty
 baští
 baště
-baťoh
 bažil
 bažin
 bažit
@@ -658,7 +650,6 @@ bodům
 bohat
 bohem
 bohou
-bohyň
 boháč
 bohém
 bohům
@@ -841,8 +832,6 @@ brček
 brčka
 brčko
 brčál
-brňan
-brňák
 buben
 bublá
 bublé
@@ -941,15 +930,6 @@ bučme
 bučte
 bučím
 bučíš
-buďme
-buďsi
-buďte
-buďto
-buňce
-buňek
-buňka
-buňku
-buňky
 buřič
 buřta
 buřty
@@ -984,8 +964,6 @@ bytný
 bytou
 bytím
 bytům
-byňov
-byťsi
 bzová
 bzové
 bzový
@@ -1019,11 +997,9 @@ bárku
 bárky
 bárou
 bárta
-báseň
 básni
 básní
 básně
-bázeň
 bázni
 bázní
 bázně
@@ -1037,7 +1013,6 @@ béček
 béčka
 béčko
 béčku
-béďův
 bídná
 bídné
 bídní
@@ -1155,7 +1130,6 @@ břité
 břitý
 břitů
 břiše
-břéťa
 břímě
 bříza
 bříze
@@ -1281,7 +1255,6 @@ chipu
 chipy
 chlad
 chlap
-chlaď
 chlop
 chlor
 chlub
@@ -1314,8 +1287,6 @@ chové
 chový
 chovů
 choří
-choťe
-chraň
 chrlí
 chrní
 chrom
@@ -1673,12 +1644,6 @@ david
 davle
 davům
 dačic
-daňci
-daňka
-daňky
-daňků
-daňov
-daňčí
 dařil
 dařit
 daříš
@@ -1773,7 +1738,6 @@ dešov
 dešti
 deště
 deštů
-dešťů
 dhtml
 diaku
 diaky
@@ -1893,7 +1857,6 @@ dogou
 dohad
 dohod
 dohoz
-dohoň
 dohra
 dohro
 dohru
@@ -1909,7 +1872,6 @@ dojem
 dojen
 dojet
 dojez
-dojeď
 dojic
 dojil
 dojit
@@ -1934,7 +1896,6 @@ dokud
 dokuř
 dokům
 dolar
-dolaď
 dolec
 dolem
 doler
@@ -1972,14 +1933,12 @@ dones
 donič
 donor
 donou
-donuť
 dopad
 dopal
 dopij
 dopil
 dopis
 dopiš
-doplň
 doptá
 dopuj
 dopít
@@ -1993,7 +1952,6 @@ dortů
 doruč
 dorýt
 dosah
-dosaď
 dosel
 dosem
 doset
@@ -2003,7 +1961,6 @@ dosuš
 dosít
 dotaz
 dotek
-doteď
 dotkl
 dotoč
 dotud
@@ -2019,7 +1976,6 @@ douti
 doučí
 dovař
 dovaž
-doveď
 dovol
 dovoz
 dovrš
@@ -2183,8 +2139,6 @@ drény
 drúza
 drúzy
 drška
-drťme
-drťte
 držav
 držba
 držbu
@@ -2346,7 +2300,6 @@ dárek
 dárku
 dárky
 dárků
-dáseň
 dásni
 dásní
 dásně
@@ -2855,7 +2808,6 @@ fešná
 fešné
 fešný
 fešák
-feťák
 fiakr
 fiala
 fialo
@@ -2984,12 +2936,9 @@ foukl
 fouká
 fouké
 fouký
-fouňa
 foyer
 fošna
 fošny
-foťte
-foťák
 fraku
 fraky
 fraků
@@ -3006,7 +2955,6 @@ froté
 fráze
 frázi
 frází
-fráňa
 fréza
 fréze
 frézu
@@ -3016,8 +2964,6 @@ frčet
 frčka
 frčky
 frčím
-frňák
-frťan
 fugou
 fugám
 fujar
@@ -3085,9 +3031,6 @@ fórům
 fúrie
 fúzní
 fúzím
-fňuká
-fňuké
-fňuký
 fůrou
 fůzím
 gabon
@@ -3322,7 +3265,6 @@ hatit
 havaj
 havel
 havíř
-havěť
 hazeč
 hačat
 hašen
@@ -3352,7 +3294,6 @@ hekly
 hekto
 hekám
 helem
-heleď
 helia
 helin
 heliu
@@ -3396,9 +3337,6 @@ hezká
 hezké
 hezký
 hezčí
-hihňá
-hihňé
-hihňý
 hijou
 hindí
 hipík
@@ -3608,7 +3546,6 @@ holce
 holdu
 holej
 holek
-holeň
 holic
 holil
 holin
@@ -3713,7 +3650,6 @@ houpé
 houpý
 house
 houst
-houšť
 hovna
 hovno
 hovny
@@ -3725,11 +3661,6 @@ hověj
 hověl
 hovět
 hozen
-hoďku
-hoďky
-hoďme
-hoďte
-hoňte
 hořce
 hořci
 hořců
@@ -3946,10 +3877,8 @@ hučka
 hučku
 hučím
 hučíš
-huňáč
 hušek
 huška
-huťmi
 hvizd
 hvozd
 hvězd
@@ -4058,10 +3987,6 @@ hýřím
 hýříš
 hýždí
 hýždě
-hňupa
-hňupe
-hňupy
-hňupů
 hřadu
 hřadě
 hřbet
@@ -4076,7 +4001,6 @@ hřeší
 hřibu
 hřiby
 hřibů
-hřišť
 hřmot
 hřmít
 hřměl
@@ -4294,7 +4218,6 @@ jasné
 jasní
 jasný
 jasně
-jasoň
 jasům
 jatek
 jater
@@ -4376,7 +4299,6 @@ jenou
 jeník
 jenže
 jepic
-jeseň
 jesle
 jeslí
 jetel
@@ -4407,8 +4329,6 @@ ječný
 ječte
 ječím
 ječíš
-jeďme
-jeďte
 jeřáb
 jeřík
 ještě
@@ -4643,7 +4563,6 @@ kabin
 kabát
 kacou
 kacíř
-kadaň
 kadet
 kadeř
 kadit
@@ -4818,10 +4737,6 @@ kačer
 kačka
 kačku
 kačky
-kaňka
-kaňku
-kaňky
-kaňon
 kařez
 kašel
 kašen
@@ -4877,11 +4792,9 @@ keser
 keson
 keton
 kečup
-keňan
 keřem
 keřík
 keřům
-keťas
 khaki
 kibic
 kibuc
@@ -5111,7 +5024,6 @@ kochá
 koché
 kochý
 kodak
-kodaň
 kodek
 kodex
 kodér
@@ -5185,7 +5097,6 @@ komis
 komod
 komor
 komou
-komoň
 kompu
 kompy
 komsi
@@ -5384,13 +5295,6 @@ kočku
 kočky
 kočár
 kočím
-koňak
-koňka
-koňmi
-koňmo
-koňák
-koňům
-koňův
 kořal
 kořen
 kořit
@@ -5403,7 +5307,6 @@ koštů
 košár
 košík
 košům
-koťat
 kožař
 kožek
 kožka
@@ -5610,7 +5513,6 @@ kujou
 kujón
 kukal
 kukat
-kukaň
 kukel
 kukla
 kukle
@@ -5721,8 +5623,6 @@ kutím
 kutým
 kuvér
 kučeř
-kuňka
-kuňká
 kuřat
 kuřim
 kuřiv
@@ -5814,8 +5714,6 @@ kyčel
 kyčle
 kyčli
 kyčlí
-kyňme
-kyňte
 kyška
 kácej
 kácel
@@ -5869,14 +5767,12 @@ kátin
 kávou
 kázal
 kázat
-kázeň
 kázni
 kázní
 kázně
 kázán
 káčko
 káčou
-káňat
 kážeš
 kážou
 kérku
@@ -5923,13 +5819,10 @@ kývém
 kývým
 kýčem
 kýčům
-kňour
-kňučí
 křeky
 křenu
 křesl
 křest
-křesť
 křeče
 křeči
 křečí
@@ -5992,7 +5885,6 @@ kůrům
 kůzle
 labem
 labou
-labuť
 lacet
 ladem
 ladil
@@ -6100,15 +5992,6 @@ lačné
 lační
 lačný
 lačně
-laďka
-laďme
-laďte
-laňka
-laťce
-laťek
-laťka
-laťku
-laťky
 lbích
 lebce
 lebek
@@ -6305,8 +6188,6 @@ lešné
 lešný
 lešti
 leští
-leťme
-leťte
 ležel
 ležet
 ležmo
@@ -6345,11 +6226,9 @@ libra
 libru
 libry
 libuj
-libuň
 libye
 libyi
 libyí
-libáň
 libém
 libým
 libře
@@ -6427,7 +6306,6 @@ listů
 lisuj
 lisům
 liter
-liteň
 litin
 litná
 litné
@@ -6628,12 +6506,6 @@ lovíš
 lovče
 lovčí
 lovům
-loďař
-loďce
-loďka
-loďku
-loďky
-loďmi
 ložem
 ložná
 ložné
@@ -6751,9 +6623,6 @@ luzou
 lučin
 luční
 lučík
-luďka
-luďku
-luňák
 lušti
 luští
 lužby
@@ -6854,13 +6723,10 @@ lávka
 lávku
 lávky
 lávou
-lázeň
 lázni
 lázní
 lázně
 láčka
-láďou
-láďův
 láška
 léhat
 léhou
@@ -6926,7 +6792,6 @@ lídru
 lídry
 lídrů
 lídři
-líheň
 líhne
 líhni
 líhní
@@ -7207,7 +7072,6 @@ mačky
 mačká
 mačké
 mačký
-maďar
 mařil
 mařit
 mařka
@@ -7322,8 +7186,6 @@ mečíš
 mečům
 mešit
 mešní
-meťme
-meťte
 mhách
 micky
 mihla
@@ -7350,7 +7212,6 @@ mimem
 mimin
 mimos
 mimou
-mimoň
 mimus
 mimův
 mince
@@ -7718,12 +7579,10 @@ mrzni
 mrznu
 mrzuj
 mrzut
-mrzuť
 mrzák
 mrzíc
 mrzím
 mrzíš
-mrňat
 mrška
 mrští
 msdos
@@ -7772,7 +7631,6 @@ mučka
 mučte
 mučím
 mučíš
-muňka
 muřím
 mušce
 mušek
@@ -8070,11 +7928,6 @@ měsíc
 mětem
 mětný
 měčín
-měďná
-měďné
-měďný
-měďák
-měňte
 měřen
 měřil
 měřit
@@ -8143,7 +7996,6 @@ naděj
 naděl
 nadře
 nadřu
-nafoť
 nafta
 naftu
 nafty
@@ -8151,7 +8003,6 @@ naftě
 nahne
 nahnu
 nahou
-nahoď
 naháč
 nahém
 nahým
@@ -8176,7 +8027,6 @@ najíš
 nakdy
 nakoj
 nakrm
-nalaď
 nalej
 nalep
 nalij
@@ -8206,7 +8056,6 @@ napij
 napil
 napit
 napiš
-naplň
 napne
 napni
 napnu
@@ -8220,14 +8069,12 @@ naraz
 naruš
 narvu
 naráz
-nasaď
 nasel
 naser
 naset
 nasil
 nasou
 nasuš
-nasyť
 nasál
 nasát
 nasít
@@ -8249,9 +8096,6 @@ navar
 navař
 navaž
 navez
-naveď
-naviň
-navoň
 navrš
 navál
 navát
@@ -8270,9 +8114,7 @@ načnu
 načte
 načti
 načít
-naďou
 nařež
-nařiď
 nařkl
 našel
 našem
@@ -8303,9 +8145,7 @@ neboj
 nebol
 nebou
 neboř
-neboť
 nebuč
-nebuď
 nebyl
 nebál
 nebát
@@ -8313,7 +8153,6 @@ nebít
 nebýt
 necek
 nechá
-nechť
 necky
 necpe
 necpi
@@ -8327,7 +8166,6 @@ nedbý
 nedej
 nediv
 nedou
-nedrť
 nedrž
 neduh
 nedám
@@ -8339,13 +8177,10 @@ neděl
 neděs
 nedře
 nedři
-nefoť
-nefuň
 nefér
 negra
 negři
 nehas
-nehaň
 nehet
 nehla
 nehli
@@ -8356,8 +8191,6 @@ nehni
 nehnu
 nehod
 nehol
-nehoň
-nehrň
 nehtu
 nehty
 nehtů
@@ -8381,7 +8214,6 @@ nekrč
 nekuř
 nelad
 nelam
-nelaď
 nelej
 nelep
 nelez
@@ -8422,14 +8254,12 @@ nemým
 nemýt
 neměj
 neměl
-neměň
 neměř
 nenes
 nenič
 nenos
 nenou
 nenoř
-nenuť
 neonu
 neony
 neonů
@@ -8439,7 +8269,6 @@ neper
 nepij
 nepil
 nepiš
-neplň
 nepra
 neptá
 nepté
@@ -8450,9 +8279,7 @@ nepře
 nepři
 nepřu
 nerad
-neraď
 nerez
-neroň
 nerud
 neruč
 neruš
@@ -8463,7 +8290,6 @@ neržá
 nesem
 nesen
 neser
-neseď
 neseš
 nesiř
 nesla
@@ -8479,7 +8305,6 @@ nespi
 nespr
 nespí
 neste
-nesuď
 nesuš
 nesvá
 nesvé
@@ -8512,10 +8337,8 @@ nevdá
 nevdé
 nevdý
 nevis
-neviň
 nevol
 nevoz
-nevoď
 nevrč
 nevrš
 nevyj
@@ -8547,17 +8370,14 @@ neóny
 neúpí
 nečas
 nečeš
-nečiň
 neční
 nečpí
 nečte
 nečti
 nečtu
 nečum
-neřaď
 neřeš
 neřež
-neřiď
 neřku
 neřve
 neřvi
@@ -8565,7 +8385,6 @@ neřvu
 neřád
 nešel
 nešil
-nešiď
 nešiř
 nešla
 nešli
@@ -8573,7 +8392,6 @@ nešlo
 nešly
 nežel
 nežer
-nežeň
 nežil
 nežit
 nežli
@@ -8626,7 +8444,6 @@ ničte
 ničíc
 ničím
 ničíš
-niťař
 nižší
 nných
 nnými
@@ -8764,8 +8581,6 @@ nuzní
 nuzný
 nuzně
 nuzák
-nuťme
-nuťte
 nylon
 nymfa
 nymfo
@@ -8813,7 +8628,6 @@ námět
 nános
 nápad
 nápis
-náplň
 nápoj
 nápor
 nápěv
@@ -8948,12 +8762,10 @@ objel
 objem
 objet
 objev
-objeď
 oblak
 oblek
 oblet
 obleč
-obleť
 oblig
 oblit
 obloh
@@ -8965,7 +8777,6 @@ oblít
 oblým
 obmýt
 obměn
-obměň
 obnaž
 obnos
 obnov
@@ -8985,7 +8796,6 @@ obral
 obran
 obrat
 obraz
-obrať
 obrem
 obrna
 obrnu
@@ -9006,7 +8816,6 @@ obrýt
 obrům
 obrův
 obsah
-obsaď
 obská
 obské
 obský
@@ -9037,7 +8846,6 @@ obuví
 obvaz
 obvaž
 obvit
-obviň
 obvod
 obvyk
 obvít
@@ -9090,7 +8898,6 @@ oceán
 ochot
 ochoz
 ochoč
-ochuť
 ocitl
 ocitá
 ocité
@@ -9136,11 +8943,8 @@ odfuk
 odhad
 odhal
 odhoz
-odhoď
-odhrň
 odjel
 odjet
-odjeď
 odkal
 odkap
 odkaz
@@ -9152,7 +8956,6 @@ odkud
 odkup
 odlep
 odlet
-odleť
 odlic
 odlij
 odlil
@@ -9168,7 +8971,6 @@ odlít
 odmoř
 odměn
 odměr
-odměň
 odměř
 odnes
 odnos
@@ -9188,24 +8990,19 @@ odpít
 odral
 odrat
 odraz
-odraď
 odraž
 odrol
 odrou
 odruš
 odrýt
 odrůd
-odsaď
 odsek
 odsud
 odsun
 odsup
-odsuď
-odsuň
 odsál
 odsát
 odtah
-odteď
 odtok
 odtoč
 odtud
@@ -9223,12 +9020,9 @@ odvaz
 odvaž
 odvet
 odvez
-odveď
-odviň
 odvod
 odvol
 odvoz
-odvoď
 odvál
 odvát
 odvýt
@@ -9236,7 +9030,6 @@ odéru
 odérů
 odírá
 odívá
-odčiň
 oději
 oděju
 oděna
@@ -9253,17 +9046,12 @@ oděvn
 oděvu
 oděvy
 oděvů
-odňal
-odňat
 odřel
 odřen
 odřez
 odřeš
 odřou
 odřít
-odťal
-odťat
-odťav
 odžít
 oenin
 ofilu
@@ -9296,7 +9084,6 @@ ohony
 ohoto
 ohoří
 ohrad
-ohraď
 ohrne
 ohrnu
 ohrát
@@ -9307,7 +9094,6 @@ ohání
 ohýbá
 ohýbé
 ohýbý
-ohňům
 ohřej
 ohřev
 ohřál
@@ -9398,7 +9184,6 @@ omelu
 ometá
 omeze
 omezí
-omlať
 omlel
 omlet
 omluv
@@ -9511,9 +9296,7 @@ opium
 opiát
 opiím
 opičí
-oplať
 oplet
-oploť
 opona
 oponu
 opony
@@ -9525,7 +9308,6 @@ opoře
 oprat
 oprav
 opraš
-oprať
 opsal
 opsat
 opsán
@@ -9543,7 +9325,6 @@ opuku
 opuky
 opusu
 opusy
-opusť
 opájí
 opálu
 opály
@@ -9656,7 +9437,6 @@ osiří
 oskar
 oslab
 oslav
-oslaď
 oslem
 oslní
 oslou
@@ -9707,7 +9487,6 @@ osudí
 osudů
 osuší
 osvit
-osviť
 osvoj
 osvěž
 osách
@@ -9785,8 +9564,6 @@ ouhým
 ouvej
 ouvou
 ouzký
-ouďme
-ouďte
 oušek
 ouška
 ouško
@@ -9903,7 +9680,6 @@ oštěp
 ošulí
 ošálí
 ošívá
-oťupe
 ožehl
 oželí
 ožene
@@ -9957,7 +9733,6 @@ padne
 padni
 padnu
 padou
-padrť
 padák
 padám
 padém
@@ -9972,7 +9747,6 @@ paktu
 pakty
 paktů
 pakáž
-pakůň
 palau
 palaš
 palba
@@ -10002,7 +9776,6 @@ palub
 palác
 pampa
 pampy
-paměť
 panda
 pandu
 pandy
@@ -10223,7 +9996,6 @@ perry
 perte
 peruc
 perun
-peruť
 perón
 perům
 pesar
@@ -10246,7 +10018,6 @@ pevně
 pexes
 pečen
 pečeš
-pečeť
 pečiv
 pečka
 pečky
@@ -10501,7 +10272,6 @@ plynu
 plyny
 plynů
 plyše
-plzeň
 plzni
 plzní
 plzně
@@ -10532,7 +10302,6 @@ pláči
 pláču
 pláčí
 pláčů
-plášť
 pláže
 pláži
 pláží
@@ -10555,7 +10324,6 @@ plíží
 plých
 plýma
 plými
-plňte
 plšík
 plžem
 plžní
@@ -10575,7 +10343,6 @@ pobít
 pobýt
 poběž
 pocit
-pociť
 pocta
 pocti
 poctu
@@ -10619,14 +10386,12 @@ pohla
 pohli
 pohlo
 pohly
-pohlť
 pohne
 pohni
 pohnu
 pohod
 pohon
 pohov
-pohoď
 pohyb
 pohár
 pohře
@@ -10637,7 +10402,6 @@ pojda
 pojde
 pojdu
 pojem
-pojeď
 pojil
 pojit
 pojiv
@@ -10661,7 +10425,6 @@ pokud
 pokus
 pokut
 pokyn
-pokyň
 pokál
 polap
 polce
@@ -10700,7 +10463,6 @@ polír
 polít
 pomal
 pomaž
-pomiň
 pomlk
 pomni
 pomní
@@ -10744,7 +10506,6 @@ popům
 popův
 porad
 poraz
-poraď
 porce
 porci
 porcí
@@ -10766,14 +10527,12 @@ porve
 porvu
 poryv
 porýt
-posaď
 posed
 posel
 poser
 poset
 posez
 poseč
-poseď
 posil
 posla
 posle
@@ -10791,8 +10550,6 @@ postů
 posud
 posun
 posuv
-posuď
-posuň
 posyp
 posít
 potah
@@ -10844,7 +10601,6 @@ pouze
 pouzí
 pouče
 poučí
-poušť
 povah
 poval
 povař
@@ -10893,7 +10649,6 @@ počít
 pořad
 pořez
 pořež
-pořiď
 pořád
 poříz
 pošel
@@ -10915,7 +10670,6 @@ pošuk
 pošít
 požal
 požat
-požeň
 požil
 požit
 požnu
@@ -10955,7 +10709,6 @@ praxe
 praxi
 praxí
 praze
-prašť
 praže
 praží
 prcek
@@ -11008,7 +10761,6 @@ proti
 proto
 proud
 prouč
-prouď
 proxy
 prsař
 prsem
@@ -11078,7 +10830,6 @@ prčic
 pršet
 prška
 pršák
-prťák
 psací
 psala
 psali
@@ -11216,8 +10967,6 @@ puška
 puško
 pušku
 pušky
-puťka
-puťák
 pvari
 pychu
 pyjem
@@ -11360,7 +11109,6 @@ pářil
 pářit
 pářou
 pášeš
-páťák
 pérek
 pérem
 pérka
@@ -11370,7 +11118,6 @@ pérák
 pérům
 pétin
 péčko
-péťův
 pícek
 píchl
 píchá
@@ -11401,7 +11148,6 @@ pírky
 písař
 písek
 písem
-píseň
 písku
 písky
 píská
@@ -11481,7 +11227,6 @@ pěšin
 pěšky
 pěšák
 pěším
-pěťák
 přací
 přaná
 přané
@@ -11512,7 +11257,6 @@ přete
 přeuč
 přidá
 přidé
-přijď
 přiuč
 přivá
 přivé
@@ -11602,7 +11346,6 @@ radní
 radon
 radou
 raduj
-raduň
 radám
 radím
 radíš
@@ -11690,8 +11433,6 @@ razič
 razím
 račte
 račím
-raďme
-raďte
 rašil
 rašit
 ražba
@@ -11754,7 +11495,6 @@ retní
 retný
 retro
 retuš
-reveň
 revma
 revue
 revír
@@ -11882,7 +11622,6 @@ rosta
 roste
 rostl
 rostu
-rosťa
 rotná
 rotné
 rotní
@@ -11914,7 +11653,6 @@ rouře
 rouše
 roven
 rover
-roveň
 rovin
 rovna
 rovni
@@ -11935,20 +11673,17 @@ roční
 ročně
 ročov
 ročák
-roďte
 roštu
 rošty
 roští
 roštů
 rošád
-rožeň
 rožni
 rožná
 rožné
 rožní
 rožný
 rožně
-rožňů
 rtech
 rtuti
 rtutí
@@ -12543,7 +12278,6 @@ sesle
 sesul
 sesun
 sesuv
-sesuň
 setba
 setbu
 setby
@@ -12591,11 +12325,6 @@ sečou
 sečte
 sečti
 sečtu
-seďme
-seďte
-seňor
-seřaď
-seřiď
 seřve
 seřvu
 sešel
@@ -12617,7 +12346,6 @@ sešít
 sežal
 sežat
 sežer
-sežeň
 sežnu
 sežít
 sfing
@@ -12761,11 +12489,9 @@ skinů
 sklad
 sklem
 sklep
-skliď
 sklon
 sklop
 sklou
-skloň
 skluz
 sklát
 sklář
@@ -12800,7 +12526,6 @@ skryj
 skryl
 skryt
 skrze
-skráň
 skrýt
 skrýš
 skrčí
@@ -12837,7 +12562,6 @@ skřek
 skřet
 skřín
 skříp
-skříň
 slabo
 slabá
 slabé
@@ -12879,7 +12603,6 @@ slevě
 sleze
 slezl
 slezu
-sleďů
 slibu
 sliby
 slibů
@@ -13032,7 +12755,6 @@ smrků
 smrti
 smrtí
 smrčí
-smršť
 smrže
 smrži
 smržů
@@ -13208,7 +12930,6 @@ sokly
 soklů
 sokol
 sokou
-sokyň
 sokům
 sokův
 solar
@@ -13223,7 +12944,6 @@ solný
 solou
 solte
 solux
-soluň
 solím
 solíš
 soman
@@ -13281,7 +13001,6 @@ sovám
 sovím
 sovět
 sočit
-soňou
 sošce
 sošek
 soška
@@ -13322,8 +13041,6 @@ spjat
 splav
 splaz
 splaš
-splať
-spleť
 split
 splní
 splou
@@ -13331,7 +13048,6 @@ splát
 splém
 splín
 splým
-splňu
 spodu
 spoje
 spoji
@@ -13365,7 +13081,6 @@ sprej
 správ
 sprše
 spurt
-spusť
 spádu
 spády
 spádů
@@ -13492,13 +13207,10 @@ sráči
 sráží
 sršel
 sršet
-sršeň
 sršni
 sršní
 sršně
 srším
-sršňi
-sršňů
 srůst
 stahu
 stahy
@@ -13591,7 +13303,6 @@ stočí
 strak
 stran
 strav
-straň
 straš
 strdí
 stref
@@ -13621,7 +13332,6 @@ struk
 strum
 strun
 strup
-stráň
 stráž
 strýc
 strčí
@@ -13641,7 +13351,6 @@ stupu
 stuze
 stvol
 stvoř
-stvrď
 stvůr
 stydl
 stydí
@@ -13681,7 +13390,6 @@ států
 stává
 stáze
 stáčí
-stáňa
 stáří
 stáže
 stáži
@@ -13742,7 +13450,6 @@ střiž
 střít
 stříž
 stůně
-stůňu
 sucha
 sucho
 suchu
@@ -13808,9 +13515,6 @@ suvná
 suvné
 suvný
 suvně
-suďme
-suďte
-suňte
 suřík
 sušen
 sušil
@@ -13823,7 +13527,6 @@ sušák
 suším
 sušíš
 sušší
-suťmi
 sužuj
 svahu
 svahy
@@ -13844,7 +13547,6 @@ svazy
 svazů
 svačí
 svaří
-svaťa
 svede
 svedl
 svedu
@@ -13866,7 +13568,6 @@ svisu
 svita
 svitl
 svitu
-svišť
 svlak
 svlaž
 svleč
@@ -13999,8 +13700,6 @@ syčák
 syčím
 syčíš
 syřan
-syťme
-syťte
 syžet
 sádek
 sádel
@@ -14061,7 +13760,6 @@ sáčko
 sáčku
 sáčky
 sáčků
-sáňky
 sářin
 ségra
 ségry
@@ -14109,15 +13807,7 @@ sítím
 sítěk
 sítům
 sívat
-síňce
-síňka
 sířit
-síťař
-síťce
-síťek
-síťka
-síťku
-síťky
 sójou
 sólem
 sólům
@@ -14151,29 +13841,9 @@ sýřit
 sčítá
 sčíté
 sčítý
-sňala
-sňali
-sňalo
-sňata
-sňato
-sňatu
-sňaty
-sňatá
-sňaté
-sňatý
 sřekl
 sříci
 sříct
-sťala
-sťali
-sťalo
-sťaly
-sťata
-sťati
-sťato
-sťatá
-sťaté
-sťatý
 sůvou
 sžije
 sžiji
@@ -14309,10 +13979,6 @@ tašek
 taška
 tašku
 tašky
-taťka
-taťko
-taťku
-taťky
 tažen
 tažič
 tažná
@@ -14452,7 +14118,6 @@ tečný
 tečně
 tečou
 tečuj
-teďka
 thein
 these
 theta
@@ -14716,7 +14381,6 @@ trefě
 tremp
 trend
 trest
-tresť
 trhal
 trhan
 trhat
@@ -14832,7 +14496,6 @@ trupy
 trupů
 trust
 trusu
-truňk
 trval
 trvat
 trvej
@@ -14899,7 +14562,6 @@ tuhém
 tuhým
 tukem
 tukům
-tuleň
 tulil
 tulit
 tulka
@@ -14949,7 +14611,6 @@ tučná
 tučné
 tučný
 tučně
-tuňák
 tuřín
 tušen
 tušil
@@ -15090,7 +14751,6 @@ tázat
 tázán
 táčka
 táčky
-táňou
 tážou
 téhle
 téhož
@@ -15122,7 +14782,6 @@ típlo
 típly
 típne
 típám
-tíseň
 tísni
 tísní
 tísně
@@ -15256,7 +14915,6 @@ třesu
 třesy
 třete
 třetí
-třešť
 třmen
 třpyt
 třtin
@@ -15269,13 +14927,10 @@ třídy
 třídí
 třídě
 třímá
-tříšť
 tůním
 tůněk
 tůrou
 tůčka
-tůňka
-tůňky
 ubalí
 ubere
 uberu
@@ -15416,7 +15071,6 @@ uhodl
 uhodí
 uhoří
 uhrab
-uhraď
 uhrem
 uhrou
 uhrál
@@ -15464,8 +15118,6 @@ ujímá
 ujíst
 ukapu
 ukecá
-ukliď
-ukloň
 ukopl
 ukout
 ukovu
@@ -15530,7 +15182,6 @@ umelu
 umetá
 umeté
 umetý
-umisť
 umlel
 umlet
 umlkl
@@ -15543,7 +15194,6 @@ umnou
 umném
 umným
 umoří
-umožň
 umrlá
 umrlé
 umrlý
@@ -15630,7 +15280,6 @@ upité
 upití
 upitý
 upjal
-upleť
 upneš
 upnou
 upnul
@@ -15642,7 +15291,6 @@ upros
 upsal
 upsat
 upsán
-upusť
 upálí
 upáře
 upářu
@@ -15706,7 +15354,6 @@ usekl
 uskoč
 usmaž
 usmiř
-usmrť
 usmál
 usmát
 usměj
@@ -15726,7 +15373,6 @@ usrat
 usrkl
 ustal
 ustat
-ustaň
 ustel
 ustup
 ustál
@@ -15759,7 +15405,6 @@ utnut
 utone
 utonu
 utopí
-utrať
 utrhl
 utrou
 utrpí
@@ -15872,10 +15517,6 @@ učíme
 učíst
 učíte
 učívá
-učňák
-učňům
-učňův
-uďtou
 uřekl
 uřeže
 uřkla
@@ -15909,27 +15550,16 @@ ušitá
 ušité
 ušití
 ušitý
-uškrť
 ušlou
 ušlém
 ušlým
 ušním
-ušpiň
 uštkl
 uštve
 uštvi
 uštvu
 ušáku
 uších
-uťala
-uťali
-uťalo
-uťaly
-uťata
-uťaty
-uťatá
-uťaté
-uťatý
 užasl
 uženu
 užije
@@ -16216,8 +15846,6 @@ večer
 večeř
 večka
 večír
-veďme
-veďte
 veřej
 vešel
 vešla
@@ -16339,9 +15967,6 @@ vizáž
 vizím
 vizír
 vička
-viďte
-viňte
-višeň
 višní
 višně
 vjede
@@ -16463,8 +16088,6 @@ vlály
 vlání
 vláze
 vláčí
-vláďa
-vláďu
 vláří
 vléci
 vléct
@@ -16621,8 +16244,6 @@ vozík
 vozím
 vozíš
 vozům
-voďme
-voďte
 vpadl
 vpich
 vpijí
@@ -16636,7 +16257,6 @@ vplul
 vplyv
 vprav
 vpust
-vpusť
 vpáde
 vpádu
 vpády
@@ -16750,12 +16370,10 @@ vráně
 vrása
 vrásy
 vrátí
-vráťa
 vráží
 vrývá
 vrčel
 vrčet
-vrčeň
 vrčte
 vrčím
 vrčíš
@@ -16784,7 +16402,6 @@ vseté
 vsetý
 vskoč
 vstal
-vstaň
 vstrč
 vstup
 vstát
@@ -16842,7 +16459,6 @@ vybyl
 vybyv
 vybít
 vybýt
-vyceň
 vyclí
 vycpe
 vycpi
@@ -16864,7 +16480,6 @@ vyděl
 vyděs
 vydře
 vydří
-vyfoť
 vyhli
 vyhly
 vyhne
@@ -16872,8 +16487,6 @@ vyhni
 vyhnu
 vyhol
 vyhov
-vyhoď
-vyhrň
 vyhub
 vyjda
 vyjde
@@ -16881,7 +16494,6 @@ vyjdi
 vyjdu
 vyjel
 vyjet
-vyjeď
 vyjma
 vyjme
 vyjmi
@@ -16898,10 +16510,8 @@ vykám
 vykáš
 vykém
 vykým
-vylaď
 vylez
 vyleč
-vyleť
 vylij
 vylil
 vylit
@@ -16915,7 +16525,6 @@ vylít
 vylžu
 vymaž
 vymez
-vymeť
 vymkl
 vymoz
 vymoč
@@ -16923,7 +16532,6 @@ vymra
 vymyj
 vymyl
 vymýt
-vyměň
 vyměř
 vymře
 vyndá
@@ -16931,7 +16539,6 @@ vyndé
 vyndý
 vynes
 vynoř
-vynuť
 vyořu
 vypal
 vyper
@@ -16943,13 +16550,11 @@ vypla
 vypli
 vyplo
 vyply
-vyplň
 vypne
 vypni
 vypnu
 vypoj
 vyptá
-vypuď
 vypít
 vypět
 vyraz
@@ -16962,7 +16567,6 @@ vyryl
 vyryt
 vyrýt
 vysaj
-vysaď
 vysel
 vyset
 vysil
@@ -16970,7 +16574,6 @@ vysní
 vysol
 vyspi
 vyspí
-vysuň
 vysuš
 vysál
 vysát
@@ -16994,9 +16597,7 @@ vyvař
 vyvaž
 vyved
 vyvez
-vyveď
 vyvol
-vyvoď
 vyvát
 vyvěs
 vyzná
@@ -17014,11 +16615,7 @@ vyčká
 vyčte
 vyčti
 vyčtu
-vyňal
-vyňat
-vyřaď
 vyřeš
-vyřiď
 vyřkl
 vyřve
 vyšel
@@ -17035,9 +16632,6 @@ vyšlé
 vyšlý
 vyšít
 vyšší
-vyťal
-vyťat
-vyťav
 vyžal
 vyžat
 vyžer
@@ -17058,7 +16652,6 @@ vzatá
 vzaté
 vzatí
 vzatý
-vzbuď
 vzdal
 vzdej
 vzdor
@@ -17073,7 +16666,6 @@ vzetí
 vzkaz
 vzkaž
 vzlet
-vzleť
 vzlyk
 vzmuž
 vznes
@@ -17098,7 +16690,6 @@ vztyč
 vzání
 vzíti
 vzývá
-vzňal
 váben
 vábil
 vábit
@@ -17166,7 +16757,6 @@ váček
 váčku
 váčky
 váčků
-vášeň
 vášni
 vášní
 vášně
@@ -17200,7 +16790,6 @@ véčku
 véčky
 vídal
 vídat
-vídeň
 vídni
 vídní
 vídně
@@ -17256,7 +16845,6 @@ vířil
 vířit
 vířím
 víříš
-víťův
 vížce
 vížka
 vížky
@@ -17269,11 +16857,9 @@ výběr
 výdaj
 výdej
 výdrž
-výduť
 výděl
 výfuk
 výher
-výheň
 výhni
 výhní
 výhně
@@ -17316,7 +16902,6 @@ výpal
 výpar
 výpek
 výpis
-výplň
 výpon
 výraz
 výrem
@@ -17346,7 +16931,6 @@ výtku
 výtky
 výtok
 výtoč
-výtoň
 výtěr
 výtěž
 výuce
@@ -17389,7 +16973,6 @@ včely
 včelí
 včera
 včetn
-včleň
 věcem
 věcmi
 věcná
@@ -17477,7 +17060,6 @@ větší
 vězel
 vězen
 vězet
-vězeň
 vězni
 vězná
 vězné
@@ -17487,7 +17069,6 @@ vězně
 vězte
 vězím
 vězíš
-vězňů
 věčna
 věčná
 věčné
@@ -17567,9 +17148,6 @@ všude
 všudy
 vších
 všímá
-vťatá
-vťaté
-vťatý
 vůbec
 vůdce
 vůdci
@@ -17579,7 +17157,6 @@ vůdčí
 vůkol
 vůlou
 vůním
-vždyť
 vžene
 vženu
 vžije
@@ -17679,13 +17256,10 @@ zadře
 zadřu
 zahaj
 zahal
-zahlť
 zahne
 zahni
 zahnu
 zahou
-zahoď
-zahrň
 zahém
 zahým
 zairu
@@ -17699,7 +17273,6 @@ zajel
 zajet
 zajez
 zaječ
-zajeď
 zajme
 zajmi
 zajmu
@@ -17724,11 +17297,9 @@ zalže
 zalžu
 zamaž
 zameč
-zameť
 zamiř
 zamkl
 zamlč
-zaměň
 zaměř
 zanes
 zanic
@@ -17743,7 +17314,6 @@ zapla
 zaplá
 zaplé
 zaplý
-zaplň
 zapne
 zapni
 zapnu
@@ -17763,7 +17333,6 @@ zaryj
 zaryl
 zaráz
 zarýt
-zasaď
 zasej
 zasel
 zaset
@@ -17772,7 +17341,6 @@ zasní
 zasou
 zaspí
 zasut
-zasuň
 zasvé
 zasyp
 zasyč
@@ -17793,18 +17361,14 @@ zauce
 zauče
 zaučí
 zaval
-zavaď
 zavař
 zavaž
 zavdá
 zavel
 zavez
-zaveď
 zavit
-zaviň
 zavrč
 završ
-zavrť
 zavyl
 zavál
 zavát
@@ -17832,8 +17396,6 @@ začni
 začnu
 začte
 začít
-zařaď
-zařiď
 zařve
 zařvi
 zařvu
@@ -17851,12 +17413,8 @@ zašlá
 zašlé
 zašlý
 zašít
-zaťal
-zaťat
-zaťav
 zažal
 zažat
-zažeň
 zažij
 zažil
 zažit
@@ -17885,7 +17443,6 @@ zblít
 zboku
 zboří
 zboží
-zbraň
 zbrkl
 zbroj
 zbude
@@ -17999,7 +17556,6 @@ zefír
 zefýr
 zejou
 zelen
-zeleň
 zelná
 zelné
 zelný
@@ -18027,8 +17583,6 @@ zetěm
 zevní
 zevně
 zezou
-zeťům
-zeťův
 zhasl
 zhatí
 zhltl
@@ -18069,9 +17623,7 @@ zkazí
 zkosí
 zkovu
 zkrat
-zkrať
 zkrmí
-zkroť
 zkrut
 zkumu
 zkusí
@@ -18143,7 +17695,6 @@ zmiji
 zmijí
 zmizl
 zmizí
-zmlať
 zmlkl
 zmoci
 zmohl
@@ -18279,7 +17830,6 @@ zpité
 zpití
 zpitý
 zplna
-zploď
 zpola
 zpotí
 zpoza
@@ -18367,7 +17917,6 @@ ztiší
 ztlum
 ztluč
 ztmav
-ztrať
 ztrát
 ztuha
 ztuhl
@@ -18444,7 +17993,6 @@ zvoní
 zvonů
 zvorá
 zvrat
-zvrať
 zvrhl
 zvrtl
 zvuku
@@ -18570,13 +18118,11 @@ závit
 závod
 závoj
 závor
-závoď
 závrt
 závěj
 závěr
 závěs
 závět
-závěť
 zářez
 zářil
 zářit
@@ -18884,7 +18430,6 @@ zželí
 úvodí
 úvodů
 úvozu
-úvrať
 úvěru
 úvěry
 úvěrů
@@ -18986,7 +18531,6 @@ zželí
 čekým
 čelem
 čelen
-čeleď
 čelil
 čelit
 čelná
@@ -19072,7 +18616,6 @@ zželí
 četou
 četám
 čečna
-čeňka
 čeřen
 čeřil
 čeřit
@@ -19141,8 +18684,6 @@ zželí
 čistí
 čistý
 čistě
-čiňme
-čiňte
 čiřit
 čišel
 čišet
@@ -19213,7 +18754,6 @@ zželí
 čtové
 čtuje
 čtvrt
-čtvrť
 čtyry
 čtyři
 čtěme
@@ -19293,7 +18833,6 @@ zželí
 čítám
 čítém
 čítým
-číňan
 číška
 číšky
 číším
@@ -19306,26 +18845,6 @@ zželí
 čůrou
 čůrám
 čůráš
-ďasou
-ďasův
-ďobat
-ďolík
-ďábel
-ďábla
-ďáble
-ďábli
-ďáblu
-ďábly
-ďáblů
-ňader
-ňadra
-ňadro
-ňadru
-ňadry
-ňafat
-ňouma
-ňumou
-ňumův
 řadem
 řadil
 řadit
@@ -19338,7 +18857,6 @@ zželí
 řasou
 řasám
 řazen
-řaďte
 řecka
 řecko
 řecku
@@ -19365,7 +18883,6 @@ zželí
 řekni
 řeknu
 řekou
-řekyň
 řekáh
 řekám
 řekům
@@ -19412,7 +18929,6 @@ zželí
 řečtí
 řečík
 řečím
-řeďte
 řešen
 řešet
 řešil
@@ -19437,8 +18953,6 @@ zželí
 řitka
 řitní
 řičet
-řiďme
-řiďte
 řvala
 řvali
 řvalo
@@ -19809,7 +19323,6 @@ zželí
 šokům
 šonov
 šopka
-šosať
 šosem
 šosák
 šosům
@@ -20067,43 +19580,6 @@ zželí
 šířky
 šířím
 šíříš
-šňupe
-šňůra
-šňůru
-šňůry
-šňůře
-šťára
-šťáry
-šťáva
-šťávu
-šťávy
-šťávě
-šťáře
-ťafka
-ťafku
-ťapat
-ťapka
-ťatou
-ťatém
-ťatým
-ťoven
-ťovna
-ťuhýk
-ťukal
-ťukat
-ťukla
-ťukli
-ťuklo
-ťukly
-ťukne
-ťukni
-ťuknu
-ťukot
-ťukou
-ťukám
-ťukáš
-ťukém
-ťukým
 žabce
 žabec
 žabek
@@ -20163,7 +19639,6 @@ zželí
 žehná
 žehné
 žehný
-žehuň
 želel
 želet
 želez
@@ -20209,15 +19684,12 @@ zželí
 žervé
 žesti
 žestě
-žesťů
 žeton
 žezel
 žezla
 žezlo
 žezlu
 žezly
-žeňme
-žeňte
 žhavá
 žhavé
 žhaví
@@ -20389,7 +19861,6 @@ zželí
 žáhou
 žákem
 žákou
-žákyň
 žákům
 žákův
 žánru
@@ -20421,13 +19892,7 @@ zželí
 žírné
 žírný
 žívat
-žízeň
 žízni
 žízní
 žízně
 žížal
-žďáru
-žďáry
-žňová
-žňové
-žňový
