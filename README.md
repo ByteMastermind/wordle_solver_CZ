@@ -2,7 +2,7 @@
 
 A simple program to quickly find fitting words in the Czech version of the game Wordle.
 
-Play the game [HERE] (https://hadejslova.cz/).
+Play the game [here](https://hadejslova.cz/ "Hadej Slova")
 
 ## How to build
 
@@ -32,13 +32,12 @@ Then behind it write all known (orange letters) seperated by empty spaces.
 #### 1.
 Lets say that you are at this stage of game:
 
-_<span style="color:green">O</span> _ <span style="color:Orange">Č</span><span style="color:green"> A</span>
+[![Example](https://pbs.twimg.com/media/FKiM8WyXsAsPtzV.png)](https://pbs.twimg.com/media/FKiM8WyXsAsPtzV.png)
 
 You will write and press enter:
 ```
-?o??a č
+??l?? e
 ```
-Results: 'kočka' and 'čočka'
 
 #### 2.
 Another example:
