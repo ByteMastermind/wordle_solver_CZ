@@ -49,7 +49,7 @@ void Dictionary::find(const Searched searched) const {
 }
 
 void Dictionary::wordCompare(int index, int indexDic, int c, const std::string &w, const std::string word, std::vector<std::string> & possible) const {
-    if (w[indexDic] != word[index] && word[index] != '?')
+    if ((w[indexDic] != word[index] || (w[indexDic] == word[index] && (word[index] & 0xc0) == 0xc0) && w[indexDic + 1] != word[index + 1]) && word[index] != '?')
         return;
 
     if (c == charCount(w) - 1) {
