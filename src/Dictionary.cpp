@@ -32,17 +32,30 @@ void Dictionary::find(const Searched searched) const {
     for (const auto & w : dictionary) {
         wordCompare(0, 0, 0, w, searched.word, possible);
     }
-
-    std::vector<std::string> definite;
-    for (const auto & w : possible) {
-        contain(w, searched.chars, definite);
+    std::vector<std::string> possible_2;
+    if (!searched.chars.empty()) {
+        for (const auto &w: possible) {
+            contain(w, searched.chars, possible_2);
+        }
+    }
+    if (!searched.Nchars.empty()) {
+        if (searched.chars.empty()) {
+            possible_2 = possible;
+        }
+        possible.clear();
+        for (const auto &w: possible_2) {
+            Ncontain(w, searched.Nchars, possible);
+        }
+    }
+    if (searched.Nchars.empty() && !searched.chars.empty()) {
+        possible = possible_2;
     }
 
     std::cout << "Results:\n" << std::endl;
-    for (const auto & def : definite) {
+    for (const auto & def : possible) {
         std::cout << def << std::endl;
     }
-    std::cout << '\n' << "Total: " << definite.size() << std::endl;
+    std::cout << '\n' << "Total: " << possible.size() << std::endl;
     std::cout << "*********************************************************" << std::endl;
 
 
@@ -69,20 +82,20 @@ void Dictionary::wordCompare(int index, int indexDic, int c, const std::string &
 }
 
 void Dictionary::contain(const std::string & w, const std::vector<std::string> & chars,
-                          std::vector<std::string> & definite) const {
+                          std::vector<std::string> & possible) const {
 
     for (auto c : chars) {
         bool contains = false;
         unsigned i = 0;
         while (i < w.length()) {
-            if (c.length() == 1) {
+            if ((w[i] & 0x80) == 0) {
                 if (c[0] == w[i]) {
                     contains = true;
                     break;
                 }
                 i++;
             }
-            if (c.length() == 2) {
+            if ((w[i] & 0xc0) == 0xc0) {
                 if (c[0] == w[i] && c[1] == w[i + 1]) {
                     contains = true;
                     break;
@@ -93,7 +106,7 @@ void Dictionary::contain(const std::string & w, const std::vector<std::string> &
         if (!contains)
             return;
     }
-    definite.push_back(w);
+    possible.push_back(w);
 
 }
 
@@ -116,4 +129,33 @@ void Dictionary::loadDictionary(const std::string filePath) {
     }
 
     file.close();
+}
+
+void Dictionary::Ncontain(const std::string &w, const std::vector<std::string> &chars,
+                          std::vector<std::string> & possible) const {
+
+    for (auto c : chars) {
+        bool contains = false;
+        unsigned i = 0;
+        while (i < w.length()) {
+            if ((w[i] & 0x80) == 0) {
+                if (c[0] == w[i]) {
+                    contains = true;
+                    break;
+                }
+                i++;
+            }
+            if ((w[i] & 0xc0) == 0xc0) {
+                if (c[0] == w[i] && c[1] == w[i + 1]) {
+                    contains = true;
+                    break;
+                }
+                i += 2;
+            }
+        }
+        if (contains)
+            return;
+    }
+    possible.push_back(w);
+
 }

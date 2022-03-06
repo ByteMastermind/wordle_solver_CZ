@@ -16,6 +16,7 @@ public:
     struct Searched {
         std::string word;
         std::vector<std::string> chars;
+        std::vector<std::string> Nchars;
     };
 
     Dictionary() = default;
@@ -30,7 +31,8 @@ private:
     std::string filePath;
     std::vector<std::string> dictionary;
 
-    void contain(const std::string & w, const std::vector<std::string> & chars, std::vector<std::string> & definite) const;
+    void contain(const std::string & w, const std::vector<std::string> & chars, std::vector<std::string> & possible) const;
+    void Ncontain(const std::string & w, const std::vector<std::string> & chars, std::vector<std::string> & possible) const;
     void wordCompare(int index, int indexDic, int c, const std::string & w, std::string word, std::vector<std::string> & possible) const;
 };
 

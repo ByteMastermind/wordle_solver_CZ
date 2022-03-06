@@ -23,10 +23,15 @@ Dictionary::Searched Interface::find() const {
 
     std::string character;
     Dictionary::Searched searched;
-    while (iss >> character) {
+    while (iss >> character && character[0] != '!') {
         if (character.length() > 2 || (character.length() == 2 && (character[0] & 0x80) == 0))
             throw std::invalid_argument("Error: Put empty spaces between the characters that the word contains.\n");
         searched.chars.push_back(character);
+    }
+    while (iss >> character) {
+        if (character.length() > 2 || (character.length() == 2 && (character[0] & 0x80) == 0))
+            throw std::invalid_argument("Error: Put empty spaces between the characters that the word does not contain.\n");
+        searched.Nchars.push_back(character);
     }
     searched.word = word;
     return searched;
