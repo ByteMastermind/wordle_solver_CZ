@@ -1,6 +1,6 @@
 # Czech Wordle Solver
 
-A simple program to quickly find fitting words in the Czech version of the game Wordle.
+C++ program to quickly find matching words for the game Wordle. This works for the Czech version of the game (czech uses characters from UTF-8), could be used also for the english version, after replacing the dictionary with an english one with exact format.
 
 Play the game [here](https://hadejslova.cz/ "Hadej Slova")
 
