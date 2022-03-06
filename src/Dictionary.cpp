@@ -5,24 +5,7 @@
 #include "Dictionary.h"
 
 Dictionary::Dictionary(const std::string filePath) : filePath(filePath) {
-    std::ifstream file(filePath);
-    if (!file.is_open())
-        throw std::invalid_argument("Dictionary file could not be opened.");
-
-    std::string line;
-    while (getline(file, line)) {
-        std::string word;
-        std::istringstream w(line);
-        w >> word;
-        w >> word;
-
-        if (charCount(word) != 5)
-            continue;
-
-        dictionary.push_back(word);
-    }
-
-    file.close();
+    loadDictionary(filePath);
 }
 
 void Dictionary::printAll() const {
@@ -46,14 +29,20 @@ int Dictionary::charCount(const std::string word) {
 
 void Dictionary::find(const Searched searched) const {
     std::vector<std::string> possible;
-    for (auto w : dictionary) {
+    for (const auto & w : dictionary) {
         wordCompare(0, 0, 0, w, searched.word, possible);
     }
 
-    for (auto pos : possible) {
-        std::cout << pos << std::endl;
+    std::vector<std::string> definite;
+    for (const auto & w : possible) {
+        contain(w, searched.chars, definite);
     }
-    std::cout << '\n' << std::endl;
+
+    for (const auto & def : definite) {
+        std::cout << def << std::endl;
+    }
+    std::cout << "Total: " << definite.size() << std::endl;
+    std::cout << "*********************************************************" << std::endl;
 
 
 }
@@ -76,4 +65,55 @@ void Dictionary::wordCompare(int index, int indexDic, int c, const std::string &
     if ((w[indexDic] & 0x80) == 0 && (word[index] & 0x80) == 0)
         wordCompare(index + 1, indexDic + 1, c + 1,  w, word, possible);
 
+}
+
+void Dictionary::contain(const std::string & w, const std::vector<std::string> & chars,
+                          std::vector<std::string> & definite) const {
+
+    for (auto c : chars) {
+        bool contains = false;
+        int i = 0;
+        while (i < w.length()) {
+            if (c.length() == 1) {
+                if (c[0] == w[i]) {
+                    contains = true;
+                    break;
+                }
+                i++;
+            }
+            if (c.length() == 2) {
+                if (c[0] == w[i] && c[1] == w[i + 1]) {
+                    contains = true;
+                    break;
+                }
+                i += 2;
+            }
+        }
+        if (!contains)
+            return;
+    }
+    definite.push_back(w);
+
+}
+
+void Dictionary::loadDictionary(const std::string filePath) {
+    this->filePath = filePath;
+    std::ifstream file(filePath);
+    if (!file.is_open())
+        throw std::invalid_argument("Error: Dictionary file could not be opened.\n");
+
+    std::string line;
+    while (getline(file, line)) {
+        std::string word;
+        std::istringstream w(line);
+        w >> word;
+        w >> word;
+
+        if (charCount(word) != 5)
+            continue;
+
+        dictionary.push_back(word);
+    }
+
+    file.close();
 }

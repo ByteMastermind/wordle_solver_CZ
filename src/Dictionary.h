@@ -18,7 +18,9 @@ public:
         std::vector<std::string> chars;
     };
 
+    Dictionary() = default;
     explicit Dictionary(std::string filePath);
+    void loadDictionary(std::string filePath);
     void printAll() const;
     int size() const;
     void find(Searched word) const;
@@ -28,6 +30,7 @@ private:
     std::string filePath;
     std::vector<std::string> dictionary;
 
+    void contain(const std::string & w, const std::vector<std::string> & chars, std::vector<std::string> & definite) const;
     void wordCompare(int index, int indexDic, int c, const std::string & w, std::string word, std::vector<std::string> & possible) const;
 };
 

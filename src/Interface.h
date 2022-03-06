@@ -7,6 +7,7 @@
 
 #include <string>
 #include <iostream>
+#include <stdlib.h>
 #include "Dictionary.h"
 
 class Interface {
