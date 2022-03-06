@@ -38,10 +38,11 @@ void Dictionary::find(const Searched searched) const {
         contain(w, searched.chars, definite);
     }
 
+    std::cout << "Results:\n" << std::endl;
     for (const auto & def : definite) {
         std::cout << def << std::endl;
     }
-    std::cout << "Total: " << definite.size() << std::endl;
+    std::cout << '\n' << "Total: " << definite.size() << std::endl;
     std::cout << "*********************************************************" << std::endl;
 
 
@@ -72,7 +73,7 @@ void Dictionary::contain(const std::string & w, const std::vector<std::string> &
 
     for (auto c : chars) {
         bool contains = false;
-        int i = 0;
+        unsigned i = 0;
         while (i < w.length()) {
             if (c.length() == 1) {
                 if (c[0] == w[i]) {
