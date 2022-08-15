@@ -7,7 +7,7 @@ Play the game [here](https://hadejslova.cz/ "Hadej Slova")
 ## How to build
 
 Inside wordle_solver_CZ/ do:
-```
+```bash
 mkdir build
 cd build
 cmake ..
@@ -17,7 +17,7 @@ make
 ## How to run
 
 After building just run this command inside the build folder:
-```
+```bash
 ./wordle_solver
 ```
 
