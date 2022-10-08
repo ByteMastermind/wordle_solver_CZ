@@ -7,7 +7,8 @@
 Dictionary::Searched Interface::find() const {
     std::cout << "Enter the searched word." << std::endl << "Write fixed known characters and unknown replace with '?'." << std::endl;
     std::cout << "Example: " << "'ko?ka' " << "for 'kočka'." << std::endl;
-    std::cout << "Then enter known characters with space between them." << std::endl;
+    std::cout << "Then enter known characters seperated by space." << std::endl;
+    std::cout << "Then write '!' and behind it all the characters that cannot be contained in the word seperated by space."
     std::cout << "'q' for quit." << '\n' << std::endl;
 
     std::string line;
